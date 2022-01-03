@@ -1,9 +1,3 @@
-# multilayer_perceptron.py: Machine learning implementation of a Multilayer Perceptron classifier from scratch.
-#
-# Submitted by: [enter your full name here] -- [enter your IU username here]
-#
-# Based on skeleton code by CSCI-B 551 Fall 2021 Course Staff
-
 import numpy as np
 from utils import identity, sigmoid, tanh, relu, softmax, cross_entropy, one_hot_encoding
 
