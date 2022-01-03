@@ -1,11 +1,3 @@
-# main.py: Driver program to test machine learning implementations on various datasets.
-#
-# Based on skeleton code by CSCI-B 551 Fall 2021 Course Staff
-#
-# Feel free to edit this driver program file in order to test other datasets or change specific parameters. When
-# grading, we will use our own driver program and test cases to test your machine learning implementations and functions
-# made from scratch.
-
 import sys
 
 import numpy as np
