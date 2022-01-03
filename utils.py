@@ -1,9 +1,3 @@
-# utils.py: Utility file for implementing helpful utility functions used by the ML algorithms.
-#
-# Submitted by: [enter your full name here] -- [enter your IU username here]
-#
-# Based on skeleton code by CSCI-B 551 Fall 2021 Course Staff
-
 import numpy as np
 import copy
 
